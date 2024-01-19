@@ -1,1 +1,2 @@
 Insert contact
+Alter contact
