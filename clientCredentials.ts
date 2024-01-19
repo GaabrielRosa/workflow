@@ -1,0 +1,2 @@
+clientId: blabla
+clientSecret: llalala
